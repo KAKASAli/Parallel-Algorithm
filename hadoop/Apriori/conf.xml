@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+
+<configuration>
+
+	<property>
+  		<name>org.er.min_sup</name>
+  		<value>2</value>
+  		<description>最小支持度</description>
+	</property>	
+</configuration>
+
